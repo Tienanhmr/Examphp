@@ -1,0 +1,25 @@
+﻿@model Exam.Models.Employee
+
+<h2>Employee Details</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>Employee Id</dt>
+        <dd>@Model.EmployeeId</dd>
+
+        <dt>Employee Name</dt>
+        <dd>@Model.EmployeeName</dd>
+
+        <dt>Employee Code</dt>
+        <dd>@Model.EmployeeCode</dd>
+
+        <dt>Rank</dt>
+        <dd>@Model.Rank</dd>
+
+        <dt>Department</dt>
+        <dd>@Model.Department.DepartmentName</dd>
+    </dl>
+</div>
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>
