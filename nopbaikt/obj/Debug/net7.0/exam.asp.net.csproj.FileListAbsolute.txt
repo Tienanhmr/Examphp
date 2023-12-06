@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.AssemblyInfo.cs
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\exam.asp.net\exam.asp.net\obj\Debug\net7.0\exam.asp.net.RazorAssemblyInfo.cs
